@@ -9,7 +9,7 @@ body {
     grid-template-rows: auto;
 }
 .uno {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../assets/images/Fondo.png") center/cover no-repeat;
+    background: url("../assets/images/Fondo.png") center/cover no-repeat;
     height: 90vh;
     color: white;
     position: relative;
